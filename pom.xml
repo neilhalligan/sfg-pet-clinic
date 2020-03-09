@@ -42,5 +42,11 @@
             </plugin>
         </plugins>
     </build>
+    <scm>
+        <developerConnection>
+            scm:git:https://github.com/springframeworkguru/sfg-pet-clinic.git/
+        </developerConnection>
+        <tag>sfg-pet-clinic-0.0.3</tag>
+    </scm>
 
 </project>

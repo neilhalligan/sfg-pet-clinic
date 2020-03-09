@@ -37,6 +37,8 @@
         </dependency>
     </dependencies>
 
+    <properties><springboot.repackage.skip>true</springboot.repackage.skip></properties>
+
     <build>
         <plugins>
             <plugin>
